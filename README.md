@@ -2,7 +2,7 @@
 
 ## About Project
 
-This dashboard is an interactive demo to explore the relationship between **economic indicators** and **political indicators** at the provincial level.
+This dashboard is an interactive demo to explore the relationship between **economic indicators** and **political indicators** at the provincial level. Dashboard in Indonesian.
 
 Built with **Streamlit** and **Plotly**, this project aims to:
 
@@ -51,3 +51,4 @@ The data has been:
 
 
 ### Link Demo: https://dashboardidn-demo.streamlit.app/
+
